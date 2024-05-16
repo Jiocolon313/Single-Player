@@ -1,2 +1,2 @@
-# Single-Player Quake Map
+# Sanctum of the Fallen
 [Wiki](../../wiki)
