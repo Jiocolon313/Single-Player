@@ -1,2 +1,2 @@
-# Sanctum of the Fallen
+# Abyssal Chapel
 [Wiki](../../wiki)
